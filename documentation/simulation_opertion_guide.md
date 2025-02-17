@@ -1,7 +1,7 @@
 # Simulation Operation Guide
 Author: Yinuo Wang\
 Date: 2021.05.27\
-Email: dbdxwyn@163.com
+Email: allen.yinuo.wang@gmail.com
 
 ## Select Robot and Mode
 * The default robot is **Milab** Robot and **Simulator** Mode. 

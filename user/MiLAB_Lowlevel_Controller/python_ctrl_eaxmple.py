@@ -1,4 +1,4 @@
-# Wang Yinuo, 07/25/2021, dbdxwyn@163.com
+# Wang Yinuo, 07/25/2021, allen.yinuo.wang@gmail.com
 # If you want to control robot by python, use this example and add your controller to it.
 
 import lcm

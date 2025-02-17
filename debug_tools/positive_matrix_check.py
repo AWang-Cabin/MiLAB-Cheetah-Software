@@ -2,7 +2,7 @@
 #
 # Author: Yinuo Wang
 # Date: 03/19/21
-# Email: dbdxwyn@163.com
+# Email: allen.yinuo.wang@gmail.com
 import numpy as np
 
 r = 4e-5

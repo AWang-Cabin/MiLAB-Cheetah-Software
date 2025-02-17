@@ -5,7 +5,7 @@
  * and leg_enable param in jpos-user-parameters.yaml. KP, KD, feedforward-torque can also be tuned in that file.
  * By modifying this file, the robot motion logic can be changed as you need.
  *
- * Wang Yinuo, 04/24/2021, dbdxwyn@163.com
+ * Wang Yinuo, 04/24/2021, allen.yinuo.wang@gmail.com
  */
 void JPos_Controller::initializeController(){
 

@@ -3,7 +3,7 @@
  *
  * Authors: Yinuo Wang, Shuyu Yang
  * Date: 2021/03/04
- * E-mial: dbdxwyn@163.com, yangshuyu@westlake.edu.cn
+ * E-mial: allen.yinuo.wang@gmail.com, yangshuyu@westlake.edu.cn
  * First Version Date: 2021/03/17  Total mass:27.925
  * Second Version Date: 2021/03/26 Total mass:25.693
  *

@@ -1,7 +1,7 @@
 # Real Robot Operation Guide
 Author: Yinuo Wang\
 Date: 2021.04.13\
-Email: dbdxwyn@163.com
+Email: allen.yinuo.wang@gmail.com
 ## Remote Commander
 **1.Introduction**
 

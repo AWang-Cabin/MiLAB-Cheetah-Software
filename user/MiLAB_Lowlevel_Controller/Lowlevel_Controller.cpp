@@ -7,7 +7,7 @@
 
  * By modifying this file, the robot motion logic can be changed as you need.
  *
- * Wang Yinuo, 04/24/2021, dbdxwyn@163.com
+ * Wang Yinuo, 04/24/2021, allen.yinuo.wang@gmail.com
  */
 void Lowlevel_Controller::initializeController(){
 
